@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 88fadbf1-c9ef-46ea-b088-2254d9417c32
+      url: 'https://eefookming.quarto.pub/efmquarto-web'

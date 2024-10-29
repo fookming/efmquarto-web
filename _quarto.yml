@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "efmquarto-web"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: EFM
+      - work.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
